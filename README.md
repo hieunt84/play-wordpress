@@ -18,4 +18,5 @@ http://ip
 ```
 - chọn theme tên xxx
 - Sau này website lớn lên có nhiều traffic thì đầu tư theme tính phí đẹp có nhiều tính năng.
+- https://www.youtube.com/watch?v=Dq34I-iINfA&list=WL&index=47&t=11s
 ```
