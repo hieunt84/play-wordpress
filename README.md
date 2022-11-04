@@ -16,7 +16,7 @@ http://ip
 
 - Bước 4: Chọn theme cơ bản để bắt đầu phát triển nội dung
 ```
-- chọn theme tên xxx
+- chọn theme tên 23
 - Sau này website lớn lên có nhiều traffic thì đầu tư theme tính phí đẹp có nhiều tính năng.
 - https://www.youtube.com/watch?v=Dq34I-iINfA&list=WL&index=47&t=11s
 ```
