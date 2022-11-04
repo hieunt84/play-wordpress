@@ -13,3 +13,9 @@ Chạy file setup-wordpress.sh
 ```
 http://ip
 ```
+
+- Bước 4: Chọn theme cơ bản để bắt đầu phát triển nội dung
+```
+- chọn theme tên xxx
+- Sau này website lớn lên có nhiều traffice thì đầu tư theme tính phí đẹp có nhiều tính năng.
+```
