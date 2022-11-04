@@ -21,6 +21,14 @@ http://ip
 - https://www.youtube.com/watch?v=Dq34I-iINfA&list=WL&index=47&t=11s
 ```
 
+- Bước 5: Fix lỗi không có quyền upload image
+```
+sudo chmod 0777 /var/www/html/wp-content
+```
+- Bước 6: Tạo ra trang giới thiệu
+```
+- Giới thiệu về công ty
+```
 
 ## Tham khảo
 ```
