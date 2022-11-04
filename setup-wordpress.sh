@@ -217,6 +217,6 @@ password user root database: ${db_root_password}
 password user bk database: ${bk_password}
 password user wp database: ${password_wp}
 END
-printf "Server restart in 5 seconds\n"
-sleep 5
-reboot
+# printf "Server restart in 5 seconds\n"
+# sleep 5
+# reboot
