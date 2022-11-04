@@ -25,6 +25,6 @@ http://ip
 ## Tham khảo
 ```
 1. Hướng dẫn tạo wordpress cho người mới bắt đầu
-https://www.youtube.com/watch?v=0pw9dVF6uwI
-
+  https://www.youtube.com/watch?v=0pw9dVF6uwI
+  https://tenten.vn/tin-tuc/tao-web-wordpress-mien-phi-cho-nguoi-moi-bat-dau/
 ```
