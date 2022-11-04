@@ -2,7 +2,7 @@
 Triển khai wordpress bằng shell script
 
 ## Các bước triển khai
-- Bước 1: install Centos 7.9
+- Bước 1: install Centos 7.x
 
 - Bước 2:
 ```
