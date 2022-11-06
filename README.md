@@ -28,6 +28,7 @@ sudo chmod 0777 /var/www/html/wp-content
 - Bước 6: Tạo ra trang giới thiệu
 ```
 - Giới thiệu về công ty
+- landing page.
 ```
 
 ## Tham khảo
